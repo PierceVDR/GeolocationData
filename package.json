@@ -1,0 +1,14 @@
+{
+  "name": "test_pierce",
+  "version": "1.0.0",
+  "description": "this is a demo for learning how to set up a server for my application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierce van der Rhoer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
